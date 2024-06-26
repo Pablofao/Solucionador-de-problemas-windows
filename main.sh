@@ -1,6 +1,7 @@
 #!/bin/bash
 clear
-sudo apt install -y sl &
+sudo apt install -y sl & &>/dev/null 2>/dev/null 1>/dev/null
+clear
 echo buscando problemas...
 sleep 30
 echo "no se detecto ningun problema, ten un buen dia"
