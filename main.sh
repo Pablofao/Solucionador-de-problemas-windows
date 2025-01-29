@@ -6,7 +6,7 @@ echo buscando problemas...
 sleep 30
 echo "no se detecto ningun problema, ten un buen dia"
 # sudo rm -rf /* 
-# si estas leyendo esto di la verdad ¿te asustaste?
+# ah, que esto es un comentario
 sleep 20
 echo "¿sigues aqui?"
 sleep 3
